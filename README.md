@@ -46,5 +46,5 @@ By the end of these four weeks, you will not just know definitions. You will pos
 
 **Ready to see what is really inside the black box?**
 
-**Certification**- To qualify for a certificate, participants have to  complete at least 70% of the course to get a "Certificate of Completion". Participants can also choose to complete more than 90% of the course to qualify for "Certificate of Completion".
+**Certification**- To qualify for a certificate, participants have to  complete at least 70% of the course to get a "Certificate of Completion". Participants can also choose to complete more than 90% of the course to qualify for "Certificate of Excellence".
 
