@@ -1,4 +1,5 @@
 # Silicon-to-systems
+**Mentored by:** Apoorva Goyal
 
 You know how to draw logic gates. You know what a transistor is. But how do we go from a few NAND gates on a breadboard to a multi-billion transistor GPU training a massive AI model? Why did clock speeds stall in the 2000s? Why can't a CPU render graphics efficiently, and why did GPUs take over the world?
 
